@@ -1,0 +1,24 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "lifemate-bb8c2",
+          "appId": "1:551555315932:android:8b7c9370efec2179c6dc19",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "lifemate-bb8c2",
+          "configurations": {
+            "web": "1:551555315932:web:04878f25f0eb36cbc6dc19"
+          }
+        }
+      }
+    }
+  }
+}
